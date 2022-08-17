@@ -13,15 +13,16 @@
 <br/>
 
 ## About Me（[Chinese 💫](https://www.wolai.com/aruni-01/tURqL5MA7c8U1wxK7MW9eG)）
-- **🧑‍💻 I am studying in the third year of WIT, major in software engineering.**
-- **☕ After studying, I like basketball, watching movies and videos...**
-- **🌤️ If today is the worst, then tomorrow will be better than today~**
+### &emsp;🧑‍💻 I am studying in the third year of WIT, major in software engineering.
+### &emsp;☕ After studying, I like basketball, watching movies and videos...
+### &emsp;🌤️ If today is the worst, then tomorrow will be better than today~
 <br/>
 
 <div>
 <img alt="code" width="443" height="260" src="./static/img/code.gif" />
 <img align="right" alt="life_balance" width="400" height="250" src="./static/img/life_balance.gif" />
 <div/>
+<br/>
 
 ## Skill Set（Newbie 😋）
 <div align="center">  
