@@ -1,18 +1,24 @@
-<p align="center"><a href="https://aruni-01.github.io"><img width="80%" alt="Hello, I'm AruNi." src="./static/img/hello.png" /></a></p>
+<p align="center"><a href="/"><img width="80%" alt="Hello, I'm AruNi." src="./static/img/hello.png" /></a></p>
+<br/>
 
----
-
-<table align="right">
- <tr><td><a href="https://aruni-01.github.io"><img src="static/img/blog.png" height="13"> Blog </a></td></tr>
- <tr><td><a href="https://leetcode.cn/u/aruni_lu/"><img src="static/img/leetcode.png" height="13"> LeetCode </a></td></tr>
-</table>
+<div align='right'>
+ <a href="https://aruni-01.github.io">
+    <img alt="AruNi | Blog" width="31px" src="https://aruni-01.github.io/img/avatar.png" />
+  </a>
+  ╹ 
+  <a href="https://leetcode.cn/u/aruni_lu/">
+    <img alt="AruNi | LeetCode" width="31px" src="https://leetcode.cn/favicon.ico" />
+  </a>
+</div>
+<br/>
 
 ## About Me（[Chinese 💫](https://www.wolai.com/aruni-01/tURqL5MA7c8U1wxK7MW9eG)）
-- 🧑‍💻 I am studying in the third year of WIT, major in software engineering.
-- ☕ After studying, I like basketball, watching movies and videos...
-- 🌤️ If today is the worst, then tomorrow will be better than today~
-
+- **🧑‍💻 I am studying in the third year of WIT, major in software engineering.**
+- **☕ After studying, I like basketball, watching movies and videos...**
+- **🌤️ If today is the worst, then tomorrow will be better than today~**
 <br/>
+
+
 
 ## Skill Set（Newbie 😋）
 <div align="center">  
