@@ -20,7 +20,7 @@
 
 <div>
 <img alt="code" width="473" height="260" src="./static/img/code.gif" />
-<img align="right" alt="life_balance" width="433" height="300" src="./static/img/life_balance.gif" />
+<img align="right" alt="life_balance" width="350" height="250" src="./static/img/life_balance.gif" />
 <div/>
 
 ## Skill Set（Newbie 😋）
