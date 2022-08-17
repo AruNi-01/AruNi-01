@@ -2,11 +2,11 @@
 <br/>
 
 <div align='right'>
- <a href="https://aruni-01.github.io">
+ <a href="https://aruni-01.github.io" target="_blank">
     <img alt="AruNi | Blog" width="31px" src="https://aruni-01.github.io/img/avatar.png" />
   </a>
   ╹ 
-  <a href="https://leetcode.cn/u/aruni_lu/">
+  <a href="https://leetcode.cn/u/aruni_lu/" target="_blank">
     <img alt="AruNi | LeetCode" width="31px" src="https://leetcode.cn/favicon.ico" />
   </a>
 </div>
