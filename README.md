@@ -18,7 +18,10 @@
 - **🌤️ If today is the worst, then tomorrow will be better than today~**
 <br/>
 
-
+<div>
+<img alt="code" width="473" height="260" src="./static/img/code.gif" />
+<img align="right" alt="life_balance" width="433" height="300" src="./static/img/life_balance.gif" />
+<div/>
 
 ## Skill Set（Newbie 😋）
 <div align="center">  
