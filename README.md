@@ -14,8 +14,8 @@
 
 ## About Me（[Chinese 💫](https://www.wolai.com/aruni-01/tURqL5MA7c8U1wxK7MW9eG)）
 ### &emsp;🧑‍💻 I am studying in the third year of WIT, major in software engineering.
-### &emsp;☕ After studying, I like basketball, watching movies and videos...
-### &emsp;🌤️ If today is the worst, then tomorrow will be better than today~
+### &emsp;☕ After coding, I like basketball, watching movies and videos...
+### &emsp;🌤️ The last thing I regret in life is that I could have been ~
 <br/>
 
 <div>
