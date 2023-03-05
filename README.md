@@ -2,7 +2,7 @@
 <br/>
 
 <div align='right'>
- <a href="https://aruni.me" target="_blank">
+ <a href="https://aruni.me/docs" target="_blank">
     <img alt="Blog" width="31px" src="https://aruni-01-github-io.oss-cn-beijing.aliyuncs.com/public/avatar.png" />
  </a>
  ╹ 
