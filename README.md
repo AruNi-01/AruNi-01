@@ -3,10 +3,10 @@
 <br/>
 
 
-[![Static Badge](https://img.shields.io/badge/website_🏠-AruNi's_Domain-1f883d)](https://aruni.me) 
-[![Static Badge](https://img.shields.io/badge/GitLab_🦊-Aaryn-%23fc6d26)](https://gitlab.com/aaryn) 
-[![Static Badge](https://img.shields.io/badge/GitHub_🐱-AruNi__Lu-%23202328)](https://github.com/AruNi-01)
-[![Static Badge](https://img.shields.io/badge/email_📮-lrr__0x3f4@163.com-dd2307)](mailto:lrr_0x3f4@163.com)
+[![Static Badge](https://img.shields.io/badge/Website_🏠-AruNi's_Code_Tracks-1f883d)](https://aruni.me) 
+[![Static Badge](https://img.shields.io/badge/GitLab_🦊-AarynLu-%23fc6d26)](https://gitlab.com/aaryn) 
+[![Static Badge](https://img.shields.io/badge/GitHub_🐱-AruNi--01-343741)](https://github.com/AruNi-01)
+[![Static Badge](https://img.shields.io/badge/Email_📮-Lrr__0x3F4@163.com-blue)](mailto:Lrr_0x3F4@163.com)
 
 
 <!--
