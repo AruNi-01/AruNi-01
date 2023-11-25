@@ -6,7 +6,7 @@
 [![Static Badge](https://img.shields.io/badge/Website_🏠-AruNi's_Code_Tracks-1f883d)](https://0x3f4.run) 
 [![Static Badge](https://img.shields.io/badge/GitLab_🦊-AarynLu-%23fc6d26)](https://gitlab.com/aaryn) 
 [![Static Badge](https://img.shields.io/badge/GitHub_🐱-AruNi--01-343741)](https://github.com/AruNi-01)
-[![Static Badge](https://img.shields.io/badge/Email_📮-me@0x3f4.run-blue)](mailto:me@0x3f4.run)
+[![Static Badge](https://img.shields.io/badge/Email_📮-hello@0x3f4.run-blue)](mailto:hello@0x3f4.run)
 
 
 <!--
